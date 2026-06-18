@@ -10,21 +10,23 @@ const skillCategories = [
     skills: ["React", "HTML", "CSS"],
   },
   {
-  title: "Machine Learning",
-  skills: ["Scikit-Learn","Pandas","NumPy","Matplotlib"],
-  },
-  {
     title: "Database",
     skills: ["MySQL"],
   },
+   {
+    title: "Core Concepts",
+    skills: ["DSA", "OOP", "DBMS", "Operating System"],
+  },
+  {
+  title: "Machine Learning",
+  skills: ["Scikit-Learn","Pandas","NumPy","Matplotlib"],
+  },
+  
   {
     title: "Tools",
     skills: ["Git", "GitHub", "VS Code"],
   },
-  {
-    title: "Core Concepts",
-    skills: ["DSA", "OOP", "DBMS", "Operating System"],
-  },
+ 
   
 ];
 

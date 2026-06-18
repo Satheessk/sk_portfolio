@@ -84,7 +84,7 @@ function Contact() {
 
             <p className="text-slate-400 mt-2">
 
-              github.com/Satheeskumar_G
+              github.com/Satheessk
 
             </p>
 

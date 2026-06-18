@@ -69,7 +69,7 @@ function Hero() {
           text-transparent
           "
         >
-          Aspiring Software Engineer
+          Software Engineer | DSA & Full-Stack Development
         </motion.h2>
 
         {/* Description */}

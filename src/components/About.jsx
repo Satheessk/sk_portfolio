@@ -57,7 +57,7 @@ function About() {
 
             </h3>
 
-            <p className="text-slate-400 leading-8">
+            <p className="text-slate-300 leading-8">
 
               I'm an aspiring Software Engineer currently pursuing a
               B.Tech in Information Technology. I enjoy building web
@@ -85,7 +85,7 @@ function About() {
 
             </h3>
 
-            <p className="text-slate-400 leading-8">
+            <p className="text-slate-300 leading-8">
 
               I'm currently preparing for Software Engineering roles by
               strengthening my skills in React, Data Structures &
@@ -111,23 +111,16 @@ function About() {
 
             <FaLaptopCode className="text-4xl text-blue-400 mb-5" />
 
-            <h3 className="text-2xl font-semibold text-white mb-4">
+                <h3 className="text-2xl font-semibold text-white mb-4">
+                  Specialization
+                </h3>
 
-              Development
-
-            </h3>
-
-            <ul className="text-slate-400 space-y-3">
-
-              <li>✔ Responsive Web Applications</li>
-
-              <li>✔ React Development</li>
-
-              <li>✔ REST API Integration</li>
-
-              <li>✔ Clean UI Design</li>
-
-            </ul>
+                <ul className="text-slate-400 space-y-3">
+                  <li>✔ Software Development</li>
+                  <li>✔ Machine Learning Projects</li>
+                  <li>✔ DSA & Competitive Coding</li>
+                  <li>✔ Responsive Web Applications</li>
+                </ul>
 
           </motion.div>
 

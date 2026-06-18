@@ -8,7 +8,7 @@ const projects = [
     description:
       "A Data Structures project that efficiently schedules aircraft landings using a custom Priority Queue implementation.",
 
-    tech: ["C++", "DSA", "Priority Queue"],
+    tech: ["C", "DSA", "Priority Queue"],
 
     features: [
       "Priority-based landing scheduling",
