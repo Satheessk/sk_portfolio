@@ -1,16 +1,92 @@
-# React + Vite
+# 🌐 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Overview
 
-Currently, two official plugins are available:
+Welcome to my personal portfolio! This website showcases my skills, projects, technical expertise, and achievements as an aspiring Software Engineer. It is designed to provide recruiters and developers with an overview of my work, including projects, certifications, technical skills, and contact information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Responsive and modern user interface
+* About Me section
+* Technical Skills
+* Featured Projects
+* Certifications
+* Resume Download
+* Contact Information
+* GitHub and LinkedIn links
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+* React.js
+* HTML5
+* CSS3
+* JavaScript
+* Vite
+
+---
+
+## 🚀 Featured Projects
+
+* ✈️ Airport Runway Management System
+* 📈 AI Stock Price Prediction using LSTM
+* 🛒 Grocery E-Commerce Website
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Satheessk/portfolio.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the project:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📂 Project Structure
+
+```text
+portfolio/
+│── src/
+│── public/
+│── assets/
+│── components/
+│── App.jsx
+│── package.json
+│── README.md
+```
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Satheeskumar G**, a final-year B.Tech Information Technology student passionate about Software Development, Machine Learning, and Web Development. I enjoy building real-world applications, solving challenging problems, and continuously improving my technical skills through hands-on projects and coding practice.
+
+---
+
+## 📬 Contact
+
+* GitHub: https://github.com/Satheessk
+* LinkedIn:  https://www.linkedin.com/in/gsatheeskumar/
+
+---
+
+## ⭐ Thank You
+
+Thank you for visiting my portfolio! Feel free to explore my projects and connect with me.
