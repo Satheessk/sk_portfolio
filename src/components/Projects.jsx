@@ -39,7 +39,7 @@ const projects = [
       "Stock trend visualization",
     ],
 
-    github: "#",
+    github: "https://github.com/Satheessk/Stock-Price-Prediction",
   },
 
   {
@@ -82,7 +82,7 @@ const projects = [
       "Gemini API integration",
     ],
 
-    github: "#",
+    github: "https://github.com/Satheessk/Career-Writer",
   },
 ];
 
